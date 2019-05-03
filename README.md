@@ -1,6 +1,4 @@
-# CJass-\_DigiClock
-
-# CJASS Digi-Clock
+# CJass-DigiClock
 
 > A simple analogue hands digital clock done with CSS and Javascript. This was created as a tutorial practice to understand vanilla Javascript.
 

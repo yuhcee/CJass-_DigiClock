@@ -36,14 +36,14 @@ body {
 .hand {
   width: 50%;
   height: 6px;
-  background: black;
+  background: rgb(134, 228, 10);
   position: absolute;
   top: 50%;
   transform-origin: 100%;
   transform: rotate(90deg);
-  transition: all 0.05s;
   transition-timing-function: cubic-bezier(0.1, 2.7, 0.58.1);
 }
+
 .div {
   display: block;
 }
